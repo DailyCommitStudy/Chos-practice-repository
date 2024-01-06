@@ -5,3 +5,6 @@
 
 ##### 2566번, 최댓값
 <a href="https://ds-student.tistory.com/169">문제풀이 및 숏코드 분석</a>
+
+##### 10798번, 세로읽기
+<a href="https://ds-student.tistory.com/170">문제풀이 및 숏코드 분석</a>
