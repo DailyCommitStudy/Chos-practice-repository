@@ -13,3 +13,6 @@
 
 ##### 1181, 단어정렬
 <a href="https://ds-student.tistory.com/174">문제풀이</a>
+
+##### 11650, 좌표 정렬
+<a href="https://ds-student.tistory.com/175">문제풀이 및 숏코드 분석</a>
